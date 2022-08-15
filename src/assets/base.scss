@@ -1,0 +1,14 @@
+.v-overlay-container {
+  .v-theme--dark {
+    --v-theme-on-surface: 0,0,0;
+  }
+}
+
+
+.min-h-full {
+  min-height: 100% !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
